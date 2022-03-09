@@ -1,0 +1,17 @@
+{
+  "name": "02-one-repo",
+  "version": "1.0.0",
+  "description": "## Things to Demo",
+  "main": "index.js",
+  "scripts": {
+    "client": "cd client && npm run start",
+    "server": "cd server && npm run start",
+    "dev": "concurrently --kill-others \"npm run server\" \"npm run client\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^7.0.0"
+  }
+}

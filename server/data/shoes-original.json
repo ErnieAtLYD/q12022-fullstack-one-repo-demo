@@ -1,0 +1,32 @@
+[
+  {
+    "id": "3cdd22f4-fe82-4f45-8bd0-664b578aa3f5",
+    "brand": "Converse",
+    "model": "The blue one",
+    "color": "blue"
+  },
+  {
+    "id": "851d1b09-571f-4e20-bf80-dbee1758165d",
+    "brand": "Nike",
+    "model": "The sporty one",
+    "color": "white"
+  },
+  {
+    "id": "d0aea461-33a3-40ad-a56d-3571c4ddb34d",
+    "brand": "Nike",
+    "model": "The fancy one",
+    "color": "red"
+  },
+  {
+    "id": "60145def-419d-42f5-9622-304d862995bd",
+    "brand": "Adidas",
+    "model": "With the stripes",
+    "color": "blue"
+  },
+  {
+    "id": "eceae750-af10-4259-9860-ca3bc60b7de8",
+    "brand": "New Balance",
+    "model": "2021 exclusive",
+    "color": "black"
+  }
+]
